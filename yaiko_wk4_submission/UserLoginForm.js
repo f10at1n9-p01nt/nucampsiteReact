@@ -59,7 +59,7 @@ const UserLoginForm = () => {
                             <Form>
                                 <FormGroup>
                                     <Label htmlFor='username'>
-                                        Username
+
                                     </Label>
                                     <Field
                                         id='username'
@@ -72,7 +72,7 @@ const UserLoginForm = () => {
                                 </FormGroup>
                                 <FormGroup>
                                     <Label htmlFor='password'>
-                                        Password
+
                                     </Label>
                                     <Field
                                         id='password'
